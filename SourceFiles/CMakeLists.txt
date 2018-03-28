@@ -1,0 +1,5 @@
+DECLARE_APP(race race.c)
+DECLARE_APP(raceImproved raceImproved.c)
+DECLARE_APP(raceImproved2 raceImproved2.c)
+DECLARE_APP(rotate rotate.c)
+DECLARE_APP(finalRace finalRace.c)
